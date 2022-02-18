@@ -1,0 +1,6 @@
+
+{"vendas":[{"isbn":"123","preco":3.5, "estado":"vendido"},
+	{"isbn":"456","preco":10.5, "estado":"espera"},
+	{"isbn":"123","preco":777, "estado":"TAUAS"},
+	{"isbn":"888","preco":999, "estado":"TCH IANCIO"},
+	{"isbn":"789","preco":11.5, "estado":"vendido"}]}
